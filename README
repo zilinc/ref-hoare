@@ -1,0 +1,5 @@
+The paper body and Agda formalisation for TyDe'22 paper:
+
+A Hoare Logic Style Refinement Types Formalisation
+
+The Agda file is checked with Agda-2.6.2.1 and agda-stdlib commit 95270b78d.
